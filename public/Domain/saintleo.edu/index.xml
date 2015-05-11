@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saintleo.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/saintleo/index.edu/</link>
+    <description>Recent content in Saintleo.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/saintleo.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.saintleo.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.saintleo.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.saintleo.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saint Leo University</title>
+      <link>http://micro.moda/orgs/saintleo.edu_137032/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/saintleo.edu_137032/</guid>
+      <description>&lt;p&gt;Founded in 1889, Saint Leo University is a leading Catholic teaching institution that enrolls more than 16,000 students across our traditional Florida campus, more than 40 education center and office locations, and online degree programs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

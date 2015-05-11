@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baypath.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/baypath/index.edu/</link>
+    <description>Recent content in Baypath.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/baypath.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.baypath.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.baypath.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.baypath.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bay Path College</title>
+      <link>http://micro.moda/orgs/baypath.edu_164632/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/baypath.edu_164632/</guid>
+      <description>&lt;p&gt;Bay Path University is a four-year private college, Founded in 1897, offering undergraduate degrees for women; graduate degrees for men and women on campus and online; the One-Day-A-Week College for adult women and The American Women&amp;#39;s College, the first all-women, all-online accredited degree program.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

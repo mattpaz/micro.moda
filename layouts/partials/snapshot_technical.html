@@ -1,0 +1,32 @@
+
+
+    <li>{{ .server.server.raw }}</li>
+  </ul>
+</div>
+
+<h3>Server Response Headers</h3>
+<ul>
+  {{ range $index, $element := .response.headers }}
+    <li>{{ $index }} = {{ $element }}</li>
+  {{ end }}
+</ul>
+
+<h3>Whois</h3>
+<ul>
+{{ range $index, $element := .domain }}
+  {{ if ne $index "whois" }}
+  <li>{{ $index }} = {{ $element }}</li>
+  {{ end }}
+{{ end }}
+{{ if isset .domain.whois "regrinfo" }}
+  <li>created = {{ .domain.whois.regrinfo.domain.created }}</li>
+  <li>changed = {{ .domain.whois.regrinfo.domain.changed }}</li>
+{{ end }}
+</ul>
+
+<h3>URL</h3>
+<ul>
+  {{ range $index, $element := .url }}
+    <li>{{ $index }} = {{ $element }}</li>
+  {{ end }}
+</ul>

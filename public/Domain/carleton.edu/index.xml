@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carleton.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/carleton/index.edu/</link>
+    <description>Recent content in Carleton.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/carleton.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.carleton.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.carleton.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.carleton.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carleton College</title>
+      <link>http://micro.moda/orgs/carleton.edu_173258/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/carleton.edu_173258/</guid>
+      <description>&lt;p&gt;Ranked among the nationâs best colleges, Carleton College is a small, private liberal arts college in the historic river town of Northfield, Minnesota.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

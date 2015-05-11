@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uah.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/uah/index.edu/</link>
+    <description>Recent content in Uah.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/uah.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.uah.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.uah.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.uah.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Alabama in Huntsville</title>
+      <link>http://micro.moda/orgs/uah.edu_100706/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/uah.edu_100706/</guid>
+      <description>&lt;p&gt;The University of Alabama in Huntsville (UAH) is a public co-educational, state-supported research university within The University of Alabama System. UAH was founded as part of the University of Alabama in 1950 and became an autonomous campus within the UA System in 1969.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

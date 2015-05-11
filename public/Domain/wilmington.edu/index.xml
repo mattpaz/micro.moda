@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilmington.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/wilmington/index.edu/</link>
+    <description>Recent content in Wilmington.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/wilmington.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.wilmington.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.wilmington.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.wilmington.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wilmington College</title>
+      <link>http://micro.moda/orgs/wilmington.edu_206507/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/wilmington.edu_206507/</guid>
+      <description>&lt;p&gt;At Wilmington College, we are dedicated to you and your abilities. We believe in your ability to change the world. Be hands-on, act and build our tomorrow.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

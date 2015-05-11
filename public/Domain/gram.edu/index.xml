@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gram.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/gram/index.edu/</link>
+    <description>Recent content in Gram.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/gram.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.gram.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.gram.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.gram.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grambling State University</title>
+      <link>http://micro.moda/orgs/gram.edu_159009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/gram.edu_159009/</guid>
+      <description>&lt;p&gt;Grambling State University, offers nationally distinctive programs in the arts, education, business, nursing and more. Grambling State University provides a creative, deeply personal and relevant college experience. Serving the South while attracting students from around the world, Grambling State University thrives on community partnerships to deliver excellence for students who want to achieve personal and professional success in an increasingly global environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

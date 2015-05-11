@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cornell.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/cornell/index.edu/</link>
+    <description>Recent content in Cornell.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/cornell.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.cornell.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.cornell.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.cornell.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snapshot of http://www.med.cornell.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.med.cornell.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.med.cornell.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cornell University</title>
+      <link>http://micro.moda/orgs/cornell.edu_190415/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/cornell.edu_190415/</guid>
+      <description>&lt;p&gt;Cornell University contains seven undergraduate colleges plus the College of Veterinary Medicine, the Law School, the Samuel Curtis Johnson Graduate School of Management, the Weill Cornell Medical College in New York City and Doha, Qatar, and the 93 fields of study in the Graduate School.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weill Cornell Medical College</title>
+      <link>http://micro.moda/orgs/cornell.edu_190424/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/cornell.edu_190424/</guid>
+      <description>&lt;p&gt;The mission of Weill Cornell Medical College is to provide the finest education possible for medical students and students pursuing advanced degrees in the biomedical sciences, to provide superior continuing education for the lifelong education of physicians throughout their career, to conduct research at the cutting edge of knowledge, to improve the health care of the nation and the world, both now and for future generations, and to provide the highest quality of clinical care.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

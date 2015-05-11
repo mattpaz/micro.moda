@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uhcl.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/uhcl/index.edu/</link>
+    <description>Recent content in Uhcl.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/uhcl.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://wwwl.uhcl.edu</title>
+      <link>http://micro.moda/snapshots/edu/wwwl.uhcl.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/wwwl.uhcl.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Houston-Clear Lake</title>
+      <link>http://micro.moda/orgs/uhcl.edu_225414/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/uhcl.edu_225414/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

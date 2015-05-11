@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on MicroModa</title>
+    <link>http://micro.moda/about/</link>
+    <description>Recent content in Abouts on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 02 May 2015 20:25:18 -0600</lastBuildDate>
+    <atom:link href="http://micro.moda/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact</title>
+      <link>http://micro.moda/about/contact/</link>
+      <pubDate>Sat, 02 May 2015 20:25:18 -0600</pubDate>
+      
+      <guid>http://micro.moda/about/contact/</guid>
+      <description>&lt;p&gt;You can contact me by emailing &lt;a href=&#34;mailto:matt@micro.moda&#34;&gt;matt@micro.moda&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Platform Considerations</title>
+      <link>http://micro.moda/about/platform_considerations/</link>
+      <pubDate>Sat, 02 May 2015 20:25:18 -0600</pubDate>
+      
+      <guid>http://micro.moda/about/platform_considerations/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;The following information encapsulates much of my thinking regarding how to power this site.  It is based on experimentation and observations as of 2015-05-02.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;architectural-philosophical-considerations&#34;&gt;Architectural/Philosophical Considerations&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Static Site Generation&lt;/strong&gt; - I didn&amp;rsquo;t want a full CMS like &lt;a href=&#34;http://www.drupal.org&#34;&gt;Drupal&lt;/a&gt;, a hybrid  CMS like &lt;a href=&#34;https://wordpress.org/&#34;&gt;WordPress&lt;/a&gt; or even a static file CMS like &lt;a href=&#34;http://getkirby.com/&#34;&gt;Kirby&lt;/a&gt; or &lt;a href=&#34;http://picocms.org/&#34;&gt;Pico&lt;/a&gt;.  I wanted something with a minimum amount of overhead that would allow me to host static files in places like &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;.  Ultimately, &lt;a href=&#34;https://www.staticgen.com/&#34;&gt;StaticGen&lt;/a&gt; maintains one of the more interesting lists of static generators, so if you want a comprehensive view of the space, look there, but listed below are thoughts and observations from my own foray into this space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Language&lt;/strong&gt; - While there was some temptation to scratch an itch with regard to learning new languages, I wasn&amp;rsquo;t intrigued with the prospects of going overboard there.  I like the idea of using node.js &amp;ndash; a lot.  I used to be intrigued with Python, but decided against it for this project.  Despite being very popular in this space, I decided to avoid Ruby.  I wanted to avoid anything based on .Net too.  Oddly, I couldn&amp;rsquo;t find much intriguing in the PHP space, but would have found that workable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt; - Ultimately, I want a tool that will allow me to augment simple site markdown files with data from an array of sources. I could just render everything down to markdown or html files, but I wanted to use data sources that would allow me to more flexibly manipulate what gets rendered.  JSON was a requirement for me, but I&amp;rsquo;m becoming a fan of YAML and TOML.   They are a bit more conveninent to work with in some situations and I may consider switching to one of them for some data sources I create.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt; - Basic support for themeing, templating, and partials are requirements for me.  Live reload is a &amp;ldquo;nice to have&amp;rdquo; feature, but not that important in this case.  It could help for some iteration, but given the scale I hope to operate at, I&amp;rsquo;m resigned to the belief that it isn&amp;rsquo;t going to be practical for use on the site I&amp;rsquo;m developing.  The prospects for leveraging SASS/LESS are very attractive, but aren&amp;rsquo;t a defining characteristic for me.  Pagination and classification (through tagging and/or taxonomy) were some of the key features I hoped to leverage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Performance&lt;/strong&gt; - I need something sufficently performant.  Knowing the end-product (the rendered site) would be fast, throughput for site generation would be a luxury, an added convenience, but not a defining characteristic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Source&lt;/strong&gt; -  I didn&amp;rsquo;t want to use any site generator that wasn&amp;rsquo;t open source even if it was free/inexpensive.  I hope to find ways to contribute back to the systems I leverage.&lt;/p&gt;
+
+&lt;h2 id=&#34;platform-summary&#34;&gt;Platform Summary&lt;/h2&gt;
+
+&lt;p&gt;My search primarily focused on the following platforms.  I&amp;rsquo;ve highlighted a few of the features that were key to my own consideration. I ruled out Jekyll due to its dependency on Ruby, but included it here due it is prominence in the marketplace.&lt;/p&gt;
+
+&lt;table class=&#34;table table-striped table-bordered dataTableSimple dt-responsive&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tech&lt;/th&gt;
+      &lt;th&gt;Language&lt;/th&gt;
+      &lt;th&gt;Status&lt;/th&gt;
+      &lt;th&gt;Tagging&lt;/th&gt;
+      &lt;th&gt;Pagination&lt;/th&gt;
+      &lt;th&gt;Data&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;&lt;a href=&#34;#harp&#34;&gt;Harp&lt;/a&gt;&lt;/th&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Node.js&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-warning&#34;&gt;Stalled&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;tagging&#34;&gt;&lt;span class=&#34;label label-danger&#34;&gt;Unsupported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;pagination&#34;&gt;&lt;span class=&#34;label label-danger&#34;&gt;Unsupported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;data&#34;&gt;&lt;span class=&#34;label label-warning&#34;&gt;Potential&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;&lt;a href=&#34;#hexo&#34;&gt;Hexo&lt;/a&gt;&lt;/th&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Node.js&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Active&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;tagging&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;pagination&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;data&#34;&gt;&lt;span class=&#34;label label-warning&#34;&gt;Potential&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;&lt;a href=&#34;#hugo&#34;&gt;Hugo&lt;/a&gt;&lt;/th&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-warning&#34;&gt;Go&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Active&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;tagging&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;pagination&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;data&#34;&gt;&lt;span class=&#34;label label-warning&#34;&gt;Potential&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;&lt;a href=&#34;#jekyll&#34;&gt;Jekyll&lt;/a&gt;&lt;/th&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-danger&#34;&gt;Ruby&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;lang&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Active&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;tagging&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;pagination&#34;&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td clue=&#34;data&#34;&gt;&lt;span class=&#34;label label-warning&#34;&gt;Unknown&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a id=&#34;harp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;harp&#34;&gt;Harp&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://harpjs.com/&#34;&gt;http://harpjs.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I really like Harp, but consider it a last resort option at this stage.  More than anything else, the need to host a metadata file in json to generate the site isn&amp;rsquo;t attractive for the scale I want to use for this project.  For smaller sites that don&amp;rsquo;t need pagination and classification, it would be great.&lt;/p&gt;
+
+&lt;table class=&#34;table table-striped table-bordered dataTableSimple dt-responsive&#34;&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th&gt;Feature&lt;/th&gt;
+            &lt;th&gt;Status&lt;/th&gt;
+            &lt;th&gt;Notes&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td scope=&#34;row&#34;&gt;Status&lt;/th&gt;
+            &lt;td&gt;&lt;span class=&#34;label label-warning&#34;&gt;Stalled&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Activity has waned as of 2015/05/02&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td scope=&#34;row&#34;&gt;Pagination&lt;/th&gt;
+            &lt;td&gt;&lt;span class=&#34;label label-danger&#34;&gt;Unsupported&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;It doesn&#39;t natively support pagination. I could find alternate routes by using data files, but the level of effort would be signficant.&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td scope=&#34;row&#34;&gt;Tagging&lt;/th&gt;
+            &lt;td&gt;&lt;span class=&#34;label label-danger&#34;&gt;Unsupported&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;A reasonable path forward could be found in the use of data files&lt;/td&gt;
+          &lt;/tr&gt;
+
+          &lt;tr&gt;
+            &lt;td scope=&#34;row&#34;&gt;Data&lt;/th&gt;
+            &lt;td&gt;&lt;span class=&#34;label label-warning&#34;&gt;Possible?&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;My needs could be supoprted w/ data files per &#34;node&#34;, but haven&#39;t investigated it at this stage.&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+
+&lt;p&gt;&lt;a id=&#34;hexo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;hexo&#34;&gt;Hexo&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hexo.io/&#34;&gt;https://hexo.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I really wanted to like Hexo, but abandoned it very quickly.  I couldn&amp;rsquo;t handle the data files that I&amp;rsquo;d already tried with Hugo, so I decided to skip investigating it more deeply.&lt;/p&gt;
+
+&lt;table class=&#34;table table-striped table-bordered dataTableSimple dt-responsive&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Feature&lt;/th&gt;
+      &lt;th&gt;Status&lt;/th&gt;
+      &lt;th&gt;Notes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Status&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-success&#34;&gt;Active&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It seemed to be reasonably active&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Pagination&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It natively supports pagination, but didn&#39;t explore it deeply.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Tagging&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It natively supports tagging, but didn&#39;t explore it deeply.&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Data&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-warning&#34;&gt;Possible?&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It natively supports use of secondary data files, but after attempting to use it with a large collection of data,  Hexo proved unresponsive, so I abandoned.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a id=&#34;hugo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hugo.io&#34;&gt;https://hugo.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo is very intriguing.&lt;/strong&gt;  Before hitting some boundaries with data, it was extremely fast.  The only thing missing from my wish list right now is SASS/LESS support and I think that&amp;rsquo;s on the backlog.  The Go Templating system is a little foreign to me, but I&amp;rsquo;ve had no problems navigating it so far.  EJS was far more familiar to me, but given everything else it does well, this is a reasonable trade-off.  With node.js based systems, my learning curve for contributing back would be much smaller.  If I continue progressing forward with Hugo, I&amp;rsquo;ll have to consider other ways to contribute, but I may break down and immerse myself more deeply in Go if Hugo proves a durable solution for me.&lt;/p&gt;
+
+&lt;table class=&#34;table table-striped table-bordered dataTableSimple dt-responsive&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Feature&lt;/th&gt;
+      &lt;th&gt;Status&lt;/th&gt;
+      &lt;th&gt;Notes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Status&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-success&#34;&gt;Active&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It seemed to be reasonably active and the support channel was quite responsive for the one issue I&#39;d submitted.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Pagination&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It natively supports pagination.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Tagging&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-success&#34;&gt;Supported&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It natively supports tagging.  I&#39;m still working through it.  Not sure if pagination is supported at the tag level yet.&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr&gt;
+      &lt;td scope=&#34;row&#34;&gt;Data&lt;/th&gt;
+      &lt;td&gt;&lt;span class=&#34;label label-warning&#34;&gt;Possible?&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;It natively supports use of secondary data files.  It eventually collapses under the weight of large amounts of data.  See my bug report at &lt;a href=&#34;https://github.com/spf13/hugo/issues/1065&#34;&gt;https://github.com/spf13/hugo/issues/1065&lt;/a&gt; for more information.  I may try switching to a Linux VM to see if results vary there, but it didn&#39;t sound promising.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a id=&#34;jekyll&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;jekyll&#34;&gt;Jekyll&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;http://jekyllrb.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll is one of the most popular static site generators available.  Ultimately, I didn&amp;rsquo;t want to use a Ruby based system, so I didn&amp;rsquo;t pursue it.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;At this stage, I&amp;rsquo;m pressing forward with Hugo, but I&amp;rsquo;ll continue to keep an eye out on alternative platforms.  Until something else captures my attention, I think it is well suited to drive the site if I make some sacrifices on the data to work around the bug I highlighted above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Next Steps</title>
+      <link>http://micro.moda/about/todo/</link>
+      <pubDate>Sat, 25 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/about/todo/</guid>
+      <description>
+
+&lt;p&gt;Some of my to do items include &amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;things-to-fix&#34;&gt;Things to Fix&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.njcu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.njcu.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.ollusa.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.ollusa.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.shawuniversity.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.shawuniversity.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.nyu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.nyu.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.stcl.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.stcl.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.potsdam.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.potsdam.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.snhu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.snhu.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.sbuniv.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.sbuniv.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.newrk.rutgers.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.newrk.rutgers.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.salem.kent.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.salem.kent.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.okcu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.okcu.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.odu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.odu.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.bgsu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.bgsu.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;things-to-link-to&#34;&gt;Things to Link to&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ipv6matrix.org/domain-mit.edu&#34;&gt;http://www.ipv6matrix.org/domain-mit.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dnsviz.net/d/mtsu.edu/dnssec/&#34;&gt;http://dnsviz.net/d/mtsu.edu/dnssec/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;vocabs&#34;&gt;Vocabs&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Validation (Valid|Invalid|Unknown)&lt;/li&gt;
+&lt;li&gt;Technology Taxonnomy?&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;http headers&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;x-generator&lt;/li&gt;
+&lt;li&gt;x-powered-by&lt;/li&gt;
+&lt;li&gt;server&lt;/li&gt;
+&lt;li&gt;via&lt;/li&gt;
+&lt;li&gt;set-cookie&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;metatags&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;generator&lt;/li&gt;
+&lt;li&gt;twitter:card&lt;/li&gt;
+&lt;li&gt;viewport&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;json&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;domain-&amp;gt;ipv6&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;related-links-via-alexa&#34;&gt;Related Links (via Alexa)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add &amp;lsquo;em in&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;content-analysis&#34;&gt;Content Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Word Count&lt;/li&gt;
+&lt;li&gt;Paragraph Count&lt;/li&gt;
+&lt;li&gt;Flesch Kincaid Reading Ease&lt;/li&gt;
+&lt;li&gt;Gunning Fog Score&lt;/li&gt;
+&lt;li&gt;Coleman Liau Index&lt;/li&gt;
+&lt;li&gt;SMOG Reability Index&lt;/li&gt;
+&lt;li&gt;Automated Reability Index&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;link-analysis&#34;&gt;Link Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add data from my sifted index&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;alexa-data&#34;&gt;Alexa Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alexa Speed: 891&lt;/li&gt;
+&lt;li&gt;Alexa Links In: 60 429&lt;/li&gt;
+&lt;li&gt;Alexa Reach: 1 897&lt;/li&gt;
+&lt;li&gt;Alexa Popularity: 1 673&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;fine-tuning-hugo&#34;&gt;Fine Tuning Hugo&lt;/h2&gt;
+
+&lt;p&gt;Fine tuning this site by learning more about Hugo&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Front Matter
+
+&lt;ul&gt;
+&lt;li&gt;weight&lt;/li&gt;
+&lt;li&gt;summary - &lt;a href=&#34;http://gohugo.io/content/summaries/&#34;&gt;http://gohugo.io/content/summaries/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;summary divider&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Sections = Types (but can be overriden)
+
+&lt;ul&gt;
+&lt;li&gt;List templates - can be overridden&lt;/li&gt;
+&lt;li&gt;By default, content is ordered by weight, then by date&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/templates/list/&#34;&gt;http://gohugo.io/templates/list/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/templates/views/&#34;&gt;http://gohugo.io/templates/views/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Taxoxnomies
+
+&lt;ul&gt;
+&lt;li&gt;Taxnonomy Templates - can be overridden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://npf.io/2014/08/making-it-a-series/&#34;&gt;http://npf.io/2014/08/making-it-a-series/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/templates/terms/&#34;&gt;http://gohugo.io/templates/terms/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/taxonomies/templates/&#34;&gt;http://gohugo.io/taxonomies/templates/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/taxonomies/displaying&#34;&gt;http://gohugo.io/taxonomies/displaying&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/taxonomies/methods/&#34;&gt;http://gohugo.io/taxonomies/methods/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Partials - &lt;a href=&#34;http://gohugo.io/templates/partials/&#34;&gt;http://gohugo.io/templates/partials/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Menus - &lt;a href=&#34;http://gohugo.io/extras/menus/&#34;&gt;http://gohugo.io/extras/menus/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Investigate Later
+
+&lt;ul&gt;
+&lt;li&gt;Pagination - &lt;a href=&#34;http://gohugo.io/extras/pagination/&#34;&gt;http://gohugo.io/extras/pagination/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Scoping &amp;amp; Scratch - &lt;a href=&#34;http://gohugo.io/extras/scratch/&#34;&gt;http://gohugo.io/extras/scratch/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shortcodes - &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34;&gt;http://gohugo.io/extras/shortcodes/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-to-add&#34;&gt;Data to Add&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;json&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;basic&lt;/li&gt;
+&lt;li&gt;content-&amp;gt;rss[] -&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sdepold/jquery-rss&#34;&gt;https://github.com/sdepold/jquery-rss&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/22273907/use-jquery-to-read-a-json-google-news-feed&#34;&gt;http://stackoverflow.com/questions/22273907/use-jquery-to-read-a-json-google-news-feed&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;content-&amp;gt;analysis-&amp;gt;html-&amp;gt;page_size&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;content-&amp;gt;analysis-&amp;gt;text-&amp;gt;counts-&amp;gt;word&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;content-&amp;gt;analysis-&amp;gt;text-&amp;gt;counts-&amp;gt;sentence&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;content-&amp;gt;analysis-&amp;gt;text-&amp;gt;counts-&amp;gt;avg_sentance_words&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;content-&amp;gt;analysis-&amp;gt;html-&amp;gt;dom-&amp;gt;body-&amp;gt;hash&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;content-&amp;gt;analysis-&amp;gt;html-&amp;gt;dom-&amp;gt;counts-&amp;gt;tags&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;image&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;content-&amp;gt;analysis-&amp;gt;html-&amp;gt;links-&amp;gt;rel-&amp;gt;image_src&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;long-term-todos-and-wish-list&#34;&gt;Long Term ToDos and Wish List&lt;/h2&gt;
+
+&lt;p&gt;As I get time, here are some of the things I hope to investigate next.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Custom Search&lt;/strong&gt; - Integrate Search
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/custom-search/docs/structured_data&#34;&gt;https://developers.google.com/custom-search/docs/structured_data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Color Palette Extraction&lt;/strong&gt; - Think about various techniques for extracting color palettes from screenshots
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/thief&#34;&gt;https://www.npmjs.com/package/thief&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cloudinary.com/blog/api_for_extracting_semantic_image_data_colors_faces_exif_data_and_more&#34;&gt;http://cloudinary.com/blog/api_for_extracting_semantic_image_data_colors_faces_exif_data_and_more&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ApacheTika&lt;/strong&gt; - I got started with processing pages before Tiki existed, but it could work a heckuva lot better for lots of things (for Open Graph &amp;amp; Twitter Card, etc in particular)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/3711357/getting-title-and-meta-tags-from-external-website&#34;&gt;http://stackoverflow.com/questions/3711357/getting-title-and-meta-tags-from-external-website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierroweb/PhpTikaWrapper&#34;&gt;https://github.com/pierroweb/PhpTikaWrapper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DFP&lt;/strong&gt; - even if I don&amp;rsquo;t use ads, I might use DFP for Small Business to support geospatial targeting of relevant snaphot&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Before/After Comparisons&lt;/strong&gt; - Once I start processing long term, provide before/after comparisons of screenshots
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://juxtapose.knightlab.com/&#34;&gt;http://juxtapose.knightlab.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elastic Search&lt;/strong&gt; - Once I get things up and running, think about a faceted search supported by a hosted Elastic Search instance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SenderBase Processing&lt;/strong&gt; - Grab Snapshots from SenderBase for additional info
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/14145886/how-to-programmatically-query-senderbase-org&#34;&gt;http://stackoverflow.com/questions/14145886/how-to-programmatically-query-senderbase-org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+## Siftr
+
+* http://stackoverflow.com/questions/14145886/how-to-programmatically-query-senderbase-org
+
+## Design
+* http://www.ebpearls.com.au/our-work/
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

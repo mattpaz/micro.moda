@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lewisu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/lewisu/index.edu/</link>
+    <description>Recent content in Lewisu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/lewisu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.lewisu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.lewisu.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.lewisu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lewis University</title>
+      <link>http://micro.moda/orgs/lewisu.edu_146612/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/lewisu.edu_146612/</guid>
+      <description>&lt;p&gt;Lewis University offers practical, goal-oriented education for undergraduate students, graduate students and adult learners through nearly 80 undergraduate programs and 22 graduate programs. Lewis University&amp;rsquo;s main campus is located 30 minutes southwest of Chicago in Romeoville, Illinois.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hastings.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/hastings/index.edu/</link>
+    <description>Recent content in Hastings.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/hastings.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.hastings.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.hastings.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.hastings.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hastings College</title>
+      <link>http://micro.moda/orgs/hastings.edu_181127/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/hastings.edu_181127/</guid>
+      <description>&lt;p&gt;Hastings College in Hastings, Nebraska, is a premier, residential liberal arts school with more than 60 degree majors. Inspires Greatness - Hastings Does That&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

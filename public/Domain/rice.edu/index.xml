@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rice.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/rice/index.edu/</link>
+    <description>Recent content in Rice.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/rice.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.rice.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.rice.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.rice.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rice University</title>
+      <link>http://micro.moda/orgs/rice.edu_227757/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/rice.edu_227757/</guid>
+      <description>&lt;p&gt;As a leading research university with a distinctive commitment to undergraduate education, Rice University aspires to pathbreaking research, unsurpassed teaching and contributions to the betterment of our world. It seeks to fulfill this mission by cultivating a diverse community of learning and discovery that produces leaders across the spectrum of human endeavor.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

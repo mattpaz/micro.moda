@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nl.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/nl/index.edu/</link>
+    <description>Recent content in Nl.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/nl.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.nl.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.nl.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.nl.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>National Louis University</title>
+      <link>http://micro.moda/orgs/nl.edu_147536/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nl.edu_147536/</guid>
+      <description>&lt;p&gt;NLU offers more than 60 undergraduate and graduate degree programs and is one of the most diverse universities in Illinois, helping students of all ages and backgrounds achieve their personal and prof&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

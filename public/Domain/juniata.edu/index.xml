@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juniata.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/juniata/index.edu/</link>
+    <description>Recent content in Juniata.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/juniata.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.juniata.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.juniata.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.juniata.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Juniata College</title>
+      <link>http://micro.moda/orgs/juniata.edu_213251/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/juniata.edu_213251/</guid>
+      <description>&lt;p&gt;Juniata College is one of the best liberal arts colleges in the U.S., known for its community, environment and the flexibility in its rigorous academic programs which give students hands-on experience.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

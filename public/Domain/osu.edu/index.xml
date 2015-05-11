@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/osu/index.edu/</link>
+    <description>Recent content in Osu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/osu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://osumarion.osu.edu</title>
+      <link>http://micro.moda/snapshots/edu/osumarion.osu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/osumarion.osu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snapshot of http://www.newark.osu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.newark.osu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.newark.osu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snapshot of http://www.osu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.osu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.osu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ohio State University-Main Campus</title>
+      <link>http://micro.moda/orgs/osu.edu_204796/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/osu.edu_204796/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ohio State University-Marion Campus</title>
+      <link>http://micro.moda/orgs/osu.edu_204699/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/osu.edu_204699/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ohio State University-Newark Campus</title>
+      <link>http://micro.moda/orgs/osu.edu_204705/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/osu.edu_204705/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

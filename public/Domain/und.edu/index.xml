@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Und.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/und/index.edu/</link>
+    <description>Recent content in Und.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/und.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://und.edu</title>
+      <link>http://micro.moda/snapshots/edu/und.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/und.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of North Dakota</title>
+      <link>http://micro.moda/orgs/und.edu_200280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/und.edu_200280/</guid>
+      <description>&lt;p&gt;The University of North Dakota, a national public research university, is regarded as a national leader in rural and family health issues, aerospace studies, aviation, energy and environmental research, and educational programs for American Indians. Located in Grand Forks the university offers programs in liberal arts, sciences, business, education, law, medicine, engineering, nursing, and aerospace.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

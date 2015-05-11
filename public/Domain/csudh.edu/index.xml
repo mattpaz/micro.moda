@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Csudh.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/csudh/index.edu/</link>
+    <description>Recent content in Csudh.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/csudh.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.csudh.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.csudh.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.csudh.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>California State University-Dominguez Hills</title>
+      <link>http://micro.moda/orgs/csudh.edu_110547/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/csudh.edu_110547/</guid>
+      <description>&lt;p&gt;Academics are the heart of California State University, Dominguez Hills. From face-to-face interactions to learning in the comfort of your own home, we offer a learning community where you can pursue your academic goals towards your future. Our urban university adheres to an environment of academic excellence, community service, and liberal education. We encourage students to learn outside the classroom by taking advantage of the many internship and research opportunities available out there.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/nu/index.edu/</link>
+    <description>Recent content in Nu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/nu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.nu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.nu.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.nu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>National University</title>
+      <link>http://micro.moda/orgs/nu.edu_119605/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nu.edu_119605/</guid>
+      <description>&lt;p&gt;With over 130 online and on-campus bachelor&amp;rsquo;s and graduate degree programs, National University is a leader in on-campus and online education.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Western Athletic Conference on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/western-athletic-conference/</link>
+    <description>Recent content in Western Athletic Conference on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/western-athletic-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>San Jose State University</title>
+      <link>http://micro.moda/orgs/sjsu.edu_122755/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/sjsu.edu_122755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Idaho</title>
+      <link>http://micro.moda/orgs/uidaho.edu_142285/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/uidaho.edu_142285/</guid>
+      <description>&lt;p&gt;The University of Idaho, based in the northwest, is a leading research school, providing majors and degrees for graduate and undergraduate students.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

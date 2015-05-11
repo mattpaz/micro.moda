@@ -1,0 +1,8 @@
+<div>
+  <strong>Title:</strong>  {{ .content.title }}
+</div>
+{{ if isset .content "description" }}
+<div>
+  <strong>Description:</strong>{{ .content.description }}
+</div>
+{{ end }}

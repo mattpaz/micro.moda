@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipfw.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ipfw/index.edu/</link>
+    <description>Recent content in Ipfw.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ipfw.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.ipfw.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ipfw.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.ipfw.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indiana University-Purdue University-Fort Wayne</title>
+      <link>http://micro.moda/orgs/ipfw.edu_151102/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ipfw.edu_151102/</guid>
+      <description>&lt;p&gt;Indiana UniversityâPurdue University Fort Wayne is the largest public university in northeast Indiana, offering nearly 200 prestigious IU and Purdue degrees and certificates.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

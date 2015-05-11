@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puc.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/puc/index.edu/</link>
+    <description>Recent content in Puc.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/puc.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.puc.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.puc.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.puc.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pacific Union College</title>
+      <link>http://micro.moda/orgs/puc.edu_120865/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/puc.edu_120865/</guid>
+      <description>&lt;p&gt;Pacific Union College is a fully accredited Christian liberal arts college located in California&amp;rsquo;s Napa Valley. Affiliated with the Seventh-day Adventist Church, PUC offers a broad range of academic programs in a caring Christian environment. PUC is noted for excellence in education, incredible beauty, and student diversity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

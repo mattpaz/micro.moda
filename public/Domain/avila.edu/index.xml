@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avila.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/avila/index.edu/</link>
+    <description>Recent content in Avila.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/avila.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.avila.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.Avila.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.Avila.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avila University</title>
+      <link>http://micro.moda/orgs/avila.edu_176628/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/avila.edu_176628/</guid>
+      <description>&lt;p&gt;Avila University is a Catholic University in south Kansas City delivering accredited degrees in nursing, pre-health, education, business, theatre, film and visual arts and psychology sponsored by the Sisters of St. Joseph of Carondelet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

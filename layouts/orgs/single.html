@@ -1,0 +1,138 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseUrl }}
+
+<div class="main">
+  <div class="row">
+    <div class="col-sm-8 col-sm-offset-2" role="main">
+
+<article>
+
+    <h1>{{ .Title }}</h1>
+  <section>
+    <div class="row">
+      <div class="col-md-8">
+        <header>
+          <div class="post-meta clearfix">
+            {{ if isset . "Date" }}
+            <div class="post-date pull-left">
+              Posted on
+              <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHtml }}">
+                {{ .Date.Format "Jan 2, 2006" }}
+              </time>
+            </div>
+            {{ end }}
+
+            <div class="pull-right">
+              {{ if isset .Params "logo" }}
+              <!-- img src="/{{ .Params.image }}" / -->
+              {{ end }}
+
+              {{ range .Params.tags }}
+              <span class="post-tag small"><a href="{{ $baseurl }}/tags/{{ . | urlize }}">#{{ . }}</a></span>
+              {{ end }}
+            </div>
+          </div>
+        </header>
+
+        {{ .Content }}
+
+        {{ range .Params.carnegieclassification }}
+        <div>
+          Carnegie Classification: <a href="{{ $baseurl }}CarnegieClassification/{{ . | urlize }}">{{ . }}</a>
+        </div>
+        {{ end }}
+
+        {{ range .Params.control }}
+        <div>
+            Institutional Type: <a href="{{ $baseurl }}Control/{{ . | urlize }}">{{ . }}</a>
+        </div>
+        {{ end }}
+
+        <div>
+        {{ range .Params.athleticconferences }}
+          Athletic Confrence: <a href="{{ $baseurl }}AthleticConferences/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+        </div>
+
+        <div>
+        {{ range .Params.domain }}
+          <!-- Domain: <a href="{{ $baseurl }}domain/{{ . | urlize }}">{{ . }}</a> -->
+        {{ end }}
+        </div>
+
+        {{ range .Params.institutionalsize }}
+        <div>
+          Intitutional Size: {{ . }}
+          <!-- a href="{{ $baseurl }}InstitutionalSize/{{ . | urlize }}">{{ . }}</a -->
+        </div>
+        {{ end }}
+
+        <h2>Snapshots</h2>
+        <ul>
+        {{ $page_link := .Permalink }}
+        {{ $tags := .Params.domain }}
+        {{ range .Site.Pages }}
+            {{ $page := . }}
+            {{ $has_common_tags := intersect $tags .Params.domain | len | lt 0 }}
+            {{ if and $has_common_tags (ne $page_link $page.Permalink) }}
+                <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
+            {{ end }}
+        {{ end }}
+        </ul>
+
+      </div>
+      <div class="col-md-4 right-rail">
+          <div class="map">
+            <img class="img-responsive" src="https://maps.googleapis.com/maps/api/staticmap?center={{ .Params.addr_long }},{{ .Params.addr_lat }}&zoom=13&scale=2&size=300x250&maptype=roadmap&key=AIzaSyBirLwFbYWT9NZLEa5pV9Wk1fnz9CL4bg4" />
+              <small class="text-muted">
+              <div>{{ .Params.addr_street }}</div>
+              <div>
+              {{ .Params.addr_city }},
+              {{ .Params.addr_state }}
+              {{ .Params.addr_postal }}
+              {{ .Params.addr_country }}
+              </div>
+              </small>
+          </div>
+
+      </div>
+  </section>
+  <footer>
+
+    <ul class="pager">
+      {{ if .Next }}
+      <li class="previous"><a href="{{ .Next.Permalink }}"><span aria-hidden="true">&larr;</span> Previous</a></li>
+      {{ else }}
+      <li class="previous disabled"><a href="#" disabled><span aria-hidden="true">&larr;</span> Previous</a></li>
+      {{ end }}
+      {{ if .Prev }}
+      <li class="next"><a href="{{ .Prev.Permalink }}">Next <span aria-hidden="true">&rarr;</span></a></li>
+      {{ else }}
+      <li class="next disabled"><a href="#" disabled>Next <span aria-hidden="true">&rarr;</span></a></li>
+      {{ end }}
+    </ul>
+
+
+    {{ with .Site.DisqusShortname }}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = '{{ . }}';
+      (function() {
+        if (window.location.hostname == "localhost")
+          return;
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    {{ end }}
+  </footer>
+</article>
+
+</div>
+</div>
+</div>
+
+
+{{ partial "footer.html" . }}

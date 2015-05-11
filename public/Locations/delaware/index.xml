@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delaware on MicroModa</title>
+    <link>http://micro.moda/locations/delaware/</link>
+    <description>Recent content in Delaware on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/locations/delaware/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delaware State University</title>
+      <link>http://micro.moda/orgs/desu.edu_130934/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/desu.edu_130934/</guid>
+      <description>&lt;p&gt;Founded in 1891, Delaware State University is an accredited, HBCU school that welcomes all students. We offer 52 undergraduate degrees and 26 graduate degrees.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Goldey-Beacom College</title>
+      <link>http://micro.moda/orgs/gbc.edu_130989/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/gbc.edu_130989/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Delaware</title>
+      <link>http://micro.moda/orgs/udel.edu_130943/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/udel.edu_130943/</guid>
+      <description>&lt;p&gt;The University of Delaware, which traces its origins to 1743, offers over 100 academic majors; its distinguished faculty includes internationally known scientists, authors and teachers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wesley College</title>
+      <link>http://micro.moda/orgs/wesley.edu_131098/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/wesley.edu_131098/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wilmington University</title>
+      <link>http://micro.moda/orgs/wilmu.edu_131113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/wilmu.edu_131113/</guid>
+      <description>&lt;p&gt;Wilmington University is a private, non-sectarian university that offers both undergraduate and graduate-level degree programs thoughout Delaware, New Jersey and Online in a variety of career areas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

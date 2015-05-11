@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kettering.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/kettering/index.edu/</link>
+    <description>Recent content in Kettering.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/kettering.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.kettering.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.KETTERING.EDU/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/WWW.KETTERING.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kettering University</title>
+      <link>http://micro.moda/orgs/kettering.edu_169983/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/kettering.edu_169983/</guid>
+      <description>&lt;p&gt;Kettering University is a top U.S. school offering undergraduate and graduate degrees in leading engineering, math, science, business, and co-op programs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

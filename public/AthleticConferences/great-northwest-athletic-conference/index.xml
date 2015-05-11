@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Great Northwest Athletic Conference on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/great-northwest-athletic-conference/</link>
+    <description>Recent content in Great Northwest Athletic Conference on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/great-northwest-athletic-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Central Washington University</title>
+      <link>http://micro.moda/orgs/cwu.edu_234827/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/cwu.edu_234827/</guid>
+      <description>&lt;p&gt;Central Washington University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dixie State University</title>
+      <link>http://micro.moda/orgs/dixie.edu_230171/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/dixie.edu_230171/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humboldt State University</title>
+      <link>http://micro.moda/orgs/humboldt.edu_115755/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/humboldt.edu_115755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Western Oregon University</title>
+      <link>http://micro.moda/orgs/wou.edu_210429/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/wou.edu_210429/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

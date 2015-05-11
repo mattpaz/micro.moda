@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big East Conference on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/big-east-conference/</link>
+    <description>Recent content in Big East Conference on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/big-east-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rutgers University-New Brunswick</title>
+      <link>http://micro.moda/orgs/rutgers.edu_186380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/rutgers.edu_186380/</guid>
+      <description>&lt;p&gt;Rutgers UniversityâNew Brunswick is one of the nation&amp;#039;s premier public research universities and a member of the Association of American Universities, the Big Ten Conference, and the Committee on Institutional Cooperation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Connecticut</title>
+      <link>http://micro.moda/orgs/uconn.edu_129020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/uconn.edu_129020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

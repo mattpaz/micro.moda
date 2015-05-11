@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upper Midwest Athletic Conference on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/upper-midwest-athletic-conference/</link>
+    <description>Recent content in Upper Midwest Athletic Conference on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/upper-midwest-athletic-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crown College</title>
+      <link>http://micro.moda/orgs/crown.edu_174862/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/crown.edu_174862/</guid>
+      <description>&lt;p&gt;Crown College is an accredited private Christian college located just west of Minneapolis, MN offering professional + graduate programs online and on-campus&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The College of Saint Scholastica</title>
+      <link>http://micro.moda/orgs/css.edu_174899/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/css.edu_174899/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Minnesota-Morris</title>
+      <link>http://micro.moda/orgs/umn.edu_174251/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/umn.edu_174251/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Northwestern-St Paul</title>
+      <link>http://micro.moda/orgs/unwsp.edu_174491/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/unwsp.edu_174491/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Westminster College</title>
+      <link>http://micro.moda/orgs/westminster-mo.edu_179946/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/westminster-mo.edu_179946/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

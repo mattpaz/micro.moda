@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Independent Great Lakes Region on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/independent-great-lakes-region/</link>
+    <description>Recent content in Independent Great Lakes Region on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/independent-great-lakes-region/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alderson Broaddus University</title>
+      <link>http://micro.moda/orgs/ab.edu_237118/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ab.edu_237118/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rochester College</title>
+      <link>http://micro.moda/orgs/rc.edu_170967/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/rc.edu_170967/</guid>
+      <description>&lt;p&gt;Rochester College cultivates academic excellence, principled character, servant leadership, and global awareness through a rigorous educational experience that&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

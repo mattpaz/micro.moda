@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gcu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/gcu/index.edu/</link>
+    <description>Recent content in Gcu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/gcu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.gcu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.gcu.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.gcu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grand Canyon University</title>
+      <link>http://micro.moda/orgs/gcu.edu_104717/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/gcu.edu_104717/</guid>
+      <description>&lt;p&gt;Grand Canyon University is a private Christian university offering bachelor&amp;rsquo;s, master&amp;rsquo;s or doctoral programs. Take classes at our Phoenix campus or online university.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgetown.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/georgetown/index.edu/</link>
+    <description>Recent content in Georgetown.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/georgetown.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.georgetown.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.georgetown.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.georgetown.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Georgetown University</title>
+      <link>http://micro.moda/orgs/georgetown.edu_131496/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/georgetown.edu_131496/</guid>
+      <description>&lt;p&gt;Official home page of Georgetown University. Georgetown is one of the worldâs leading academic institutions, offering a unique educational experience that prepares the next generation of global citizens to lead and make a difference in the world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

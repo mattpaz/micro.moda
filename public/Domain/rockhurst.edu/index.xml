@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rockhurst.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/rockhurst/index.edu/</link>
+    <description>Recent content in Rockhurst.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/rockhurst.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.rockhurst.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.rockhurst.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.rockhurst.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rockhurst University</title>
+      <link>http://micro.moda/orgs/rockhurst.edu_179043/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/rockhurst.edu_179043/</guid>
+      <description>&lt;p&gt;Rockhurst is a Catholic, Jesuit university serving 3,000 students in the business and cultural heart of Kansas City. It is a comprehensive university that offers more than 50 undergraduate and graduate programs taught by nationally recognized faculty.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

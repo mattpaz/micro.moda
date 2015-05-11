@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/twu/index.edu/</link>
+    <description>Recent content in Twu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/twu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.twu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.twu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.twu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Texas Woman&#39;s University</title>
+      <link>http://micro.moda/orgs/twu.edu_229179/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/twu.edu_229179/</guid>
+      <description>&lt;p&gt;Texas Woman&amp;rsquo;s University is a public university with campuses in Denton, Dallas, and Houston, Texas, offering bachelor&amp;rsquo;s, master&amp;rsquo;s, doctoral and online degrees in the health sciences, education, business and liberal arts to undergraduate and graduate students.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ucdenver.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ucdenver/index.edu/</link>
+    <description>Recent content in Ucdenver.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ucdenver.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.ucdenver.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ucdenver.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.ucdenver.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Colorado Denver</title>
+      <link>http://micro.moda/orgs/ucdenver.edu_126562/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ucdenver.edu_126562/</guid>
+      <description>&lt;p&gt;CU Denver offers more than 130 programs in 13 schools and colleges at the undergraduate, graduate, doctoral and first professional (health) levels.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

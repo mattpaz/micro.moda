@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oru.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/oru/index.edu/</link>
+    <description>Recent content in Oru.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/oru.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://oru.edu</title>
+      <link>http://micro.moda/snapshots/edu/oru.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/oru.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oral Roberts University</title>
+      <link>http://micro.moda/orgs/oru.edu_207582/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/oru.edu_207582/</guid>
+      <description>&lt;p&gt;Oral Roberts University is an interdenominational Christian liberal arts university located in Tulsa, Oklahoma. Founded in 1963 by evangelist Oral Roberts, ORU serves students from49 states and 53 countries, representing over 40 denominations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

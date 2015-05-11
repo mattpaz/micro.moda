@@ -1,0 +1,270 @@
+*, body {
+  font-family: Open Sans;
+}
+
+h1 {
+  font-weight: 100;
+  letter-spacing: -1px;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+h2 {
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+
+h3 {
+    margin-top: 25px;
+    font-weight: 600;
+    letter-spacing: -1px;
+
+}
+.dataTables_wrapper {
+  margin-bottom: 20px;
+}
+
+.footer,
+.head {
+  background-color: #1370CA;
+  padding: 50px 30px 60px 30px;
+  dbox-shadow: inset 0px 1px 30px rgba(0,0,0,.8);
+}
+.head a:focus, a:hover {
+  text-decoration: none;
+}
+
+.footer {
+  background-color: gray;
+  color: white;
+  font-weight: 100;
+}
+.footer .social {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.footer .social a  {
+  display: inline-block;
+  margin: 10px 5%;
+  opacity: .7;
+}
+
+.footer .social a:hover {
+  opacity: .9;
+  text-shadow: 0px 1px 1px black;
+}
+.footer .social a i{
+  font-size: 3.5rem;
+  color: white;
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+
+.head h1 {
+  font-size: 6rem;
+  line-height: 5rem;
+  font-weight: 100;
+  color: rgba(255,255,255,.95);
+  letter-spacing: -4px;
+  margin-left:-4px;
+  text-shadow: 1px 0px 1px rgba(0,0,0,.2);
+  margin-bottom: 0px;
+}
+.head_sub {
+  font-size: 1.2rem;
+  background-color: #35BDD5;
+  background-color: #184EC5;
+  color: rgba(0,0,0,.5);
+  padding: 0px 30px 0px 30px;
+}
+.navbar-inverse {
+  background-color: #184EC5;
+}
+.navbar-inverse .navbar-toggle,
+.navbar-inverse .navbar-toggle:focus,
+.navbar-inverse .navbar-toggle:hover {
+  background-color: rgba(0,0,0,.4);
+}
+
+.navbar-nav>li>a {
+  text-transform: uppercase;
+  color: silver;
+  background-color: transparent;
+}
+.nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  background-color: rgba(0,0,0,.1);
+}
+.navbar-nav>li>.dropdown-menu {
+  background-color: #589DE0;
+}
+
+.dropdown-menu {
+  padding: 1px 0px;
+}
+.dropdown-menu .labeled_divider {
+  padding: 4px 18px 4px 6px;
+  font-weight: bold;
+  border-bottom:1px solid rgba(0,0,0,.4);
+  margin:3px 0px 0px 3px;
+  color: rgba(0,0,0,.6);
+}
+
+.dropdown-menu .divider {
+  background-color:  rgba(0,0,0,.4);
+}
+
+.dropdown-menu>li>a {
+  background-color: #589DE0;
+  font-size: 12px;
+  padding: 8px 18px 8px 12px;
+}
+.dropdown-menu>li>a:hover {
+  background-color: rgba(255,255,255,.2);
+}
+
+
+.nav .open>a,
+.nav .open>a:focus,
+.nav .open>a:hover {
+  background-color: #1370CA;
+
+}
+
+.pager li>a, .pager li>span {
+  white-space: nowrap;
+}
+
+
+.main, .main-alt {
+  min-height: 200px;
+  padding: 40px 30px;
+  background-color: rgba(0,0,0,.05);
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.main-alt {
+  background-color: white;
+}
+.passthrough {
+  background-position: top;
+  border-top: 1px solid rgba(0,0,0,.7);
+  border-bottom: 1px solid rgba(0,0,0,.7);
+  height: 300px;
+  background-attachment: fixed;
+  background-size: 100% auto;
+  background-image: url('http://www.educause.edu/visuals/shared/er/extras/2014/CISO/imgs/bg_lock_opt.jpg');
+  background-repeat: no-repeat;
+}
+
+.orgs .main h1 {
+  font-size: 44px;
+  margin-bottom:  28px;
+}
+.orgs .map img {
+  border: 1px solid gray;
+}
+
+
+.snapshots .main h1 {
+  font-size: 44px;
+  margin-bottom:  38px;
+}
+.snapshots .screenshot {
+  border: 1px solid gray;
+  margin-top:-5px;
+  margin-bottom:20px;
+}
+
+
+
+@media screen and (max-width: 767px) {
+	div.dataTables_wrapper > div.row > div,
+	div.dataTables_length,
+	div.dataTables_filter,
+	div.dataTables_info,
+	div.dataTables_paginate {
+		text-align: left;
+	}
+
+	div.DTTT {
+		margin-bottom: 0.5em;
+	}
+}
+
+.row.browse .btn-lg{
+  font-size: 38px;
+}
+
+/*
+.edu-page-view .audience-tabs .audience-tab.educator {
+  color: #4285f4;
+  background: #f5f7fd;
+  border-top: 5px solid #4285f4;
+}
+.edu-page-view .audience-tabs .audience-tab.educator.active,
+.edu-page-view .audience-tabs .audience-tab.educator:hover {
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
+  -o-transition: background 0.2s ease-in-out;
+  -ms-transition: background 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
+  background: #3367d6;
+}
+.edu-page-view .audience-tabs .audience-tab.administrator {
+  color: #db4437;
+  background: #fdf5f5;
+  border-top: 5px solid #db4437;
+}
+.edu-page-view .audience-tabs .audience-tab.administrator.active,
+.edu-page-view .audience-tabs .audience-tab.administrator:hover {
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
+  -o-transition: background 0.2s ease-in-out;
+  -ms-transition: background 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
+  background: #b71c1c;
+}
+.edu-page-view .audience-tabs .audience-tab.it {
+  color: #0f9d58;
+  background: #f2faf6;
+  border-top: 5px solid #0f9d58;
+}
+.edu-page-view .audience-tabs .audience-tab.it.active,
+.edu-page-view .audience-tabs .audience-tab.it:hover {
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
+  -o-transition: background 0.2s ease-in-out;
+  -ms-transition: background 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
+  background: #2e7d32;
+}
+.edu-page-view .audience-tabs .audience-tab.anyone {
+  color: #f4b400;
+  background: #fefbf2;
+  border-top: 5px solid #f4b400;
+}
+.edu-page-view .audience-tabs .audience-tab.anyone.active,
+.edu-page-view .audience-tabs .audience-tab.anyone:hover {
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
+  -o-transition: background 0.2s ease-in-out;
+  -ms-transition: background 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
+  background: #f1a202;
+}
+.edu-page-view .audience-tabs .audience-tab.active,
+.edu-page-view .audience-tabs .audience-tab:hover {
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
+  -o-transition: background 0.2s ease-in-out;
+  -ms-transition: background 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
+  color: #fff;
+}
+*/

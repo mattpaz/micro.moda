@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandman.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/brandman/index.edu/</link>
+    <description>Recent content in Brandman.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/brandman.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.brandman.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.brandman.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.brandman.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brandman University</title>
+      <link>http://micro.moda/orgs/brandman.edu_262086/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/brandman.edu_262086/</guid>
+      <description>&lt;p&gt;Brandman University provides working adults access to an accredited campus or online degree, credential, or certificate program.  Earn your BA, MA, or doctorate&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

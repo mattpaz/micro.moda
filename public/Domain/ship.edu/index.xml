@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ship.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ship/index.edu/</link>
+    <description>Recent content in Ship.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ship.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.ship.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ship.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.ship.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shippensburg University of Pennsylvania</title>
+      <link>http://micro.moda/orgs/ship.edu_216010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ship.edu_216010/</guid>
+      <description>&lt;p&gt;Shippensburg University of Pennsylvania is a bachelor&amp;#39;s and master&amp;#39;s degree granting institution with a rich history of teaching excellence. Established in 1871, Shippensburg has grown into a comprehensive regional public university, serving a population of 6, 600 undergraduate and 1, 140 graduate students. As a result of our commitment to the academic preparation of students, including research and internship opportunities, the university has been recognized by U.S. News and World Report as one of the top public universities in the Northeast in Americas Best Colleges for more than a decade.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

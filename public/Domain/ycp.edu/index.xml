@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ycp.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ycp/index.edu/</link>
+    <description>Recent content in Ycp.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ycp.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.ycp.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ycp.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.ycp.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>York College Pennsylvania</title>
+      <link>http://micro.moda/orgs/ycp.edu_217059/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ycp.edu_217059/</guid>
+      <description>&lt;p&gt;York College of Pennsylvania offers more than 50 majors to its 4,600 undergraduate students and master&amp;rsquo;s programs in business, education and nursing, and a doctorate in nursing practice.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big South Conference on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/big-south-conference/</link>
+    <description>Recent content in Big South Conference on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/big-south-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Charleston Southern University</title>
+      <link>http://micro.moda/orgs/csuniv.edu_217688/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/csuniv.edu_217688/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coastal Carolina University</title>
+      <link>http://micro.moda/orgs/coastal.edu_218724/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/coastal.edu_218724/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gardner-Webb University</title>
+      <link>http://micro.moda/orgs/gardner-webb.edu_198561/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/gardner-webb.edu_198561/</guid>
+      <description>&lt;p&gt;Gardner-Webb University Home Page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liberty University</title>
+      <link>http://micro.moda/orgs/liberty.edu_232557/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/liberty.edu_232557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virginia Military Institute</title>
+      <link>http://micro.moda/orgs/vmi.edu_234085/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/vmi.edu_234085/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

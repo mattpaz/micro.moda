@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on MicroModa</title>
+    <link>http://micro.moda/blog/</link>
+    <description>Recent content in Blogs on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Tue, 12 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Near Duplicate Detection</title>
+      <link>http://micro.moda/blog/dup_detection/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/blog/dup_detection/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently producing a hash of top level dom elements I process, thinking I could use that to discover page redesigns, but I want to go back and revisit the link below for other ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://moz.com/devblog/near-duplicate-detection/&#34;&gt;https://moz.com/devblog/near-duplicate-detection/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Color Variations with SASS</title>
+      <link>http://micro.moda/blog/color_theory_ideas/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/blog/color_theory_ideas/</guid>
+      <description>&lt;p&gt;Interesting article about how Vox used SASS to produce standard variations from a color palette.  There might be something interesting here to explore relative to the prospects for extracting a color palette from a screen shot I&amp;rsquo;m sifting in this site.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.creativebloq.com/web-design/colour-theory-for-web-71412476?page=1&#34;&gt;http://www.creativebloq.com/web-design/colour-theory-for-web-71412476?page=1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TOR on Campus</title>
+      <link>http://micro.moda/blog/edutor/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/blog/edutor/</guid>
+      <description>&lt;p&gt;Interesting find from the EDUCAUSE Security Listserv regarding TOR participation among universities&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://seclists.org/educause/2015/q2/75&#34;&gt;http://seclists.org/educause/2015/q2/75&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IPV6</title>
+      <link>http://micro.moda/blog/ipv6/</link>
+      <pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/blog/ipv6/</guid>
+      <description>&lt;p&gt;My snapshots are recording IPV6 sites, but I thought this was really interesting&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.internetsociety.org/sites/default/files/Interim%20Report_Crawler%20Project.pdf&#34;&gt;http://www.internetsociety.org/sites/default/files/Interim%20Report_Crawler%20Project.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://micro.moda/blog/hello_world/</link>
+      <pubDate>Wed, 01 Apr 2015 20:25:18 -0600</pubDate>
+      
+      <guid>http://micro.moda/blog/hello_world/</guid>
+      <description>&lt;p&gt;Just getting started on MicroModa.&lt;br /&gt;
+w
+Hopefully, I&amp;rsquo;ll have something interesting to say soon!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

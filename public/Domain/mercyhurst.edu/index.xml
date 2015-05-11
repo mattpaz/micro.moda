@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercyhurst.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/mercyhurst/index.edu/</link>
+    <description>Recent content in Mercyhurst.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/mercyhurst.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.mercyhurst.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.mercyhurst.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.mercyhurst.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mercyhurst University</title>
+      <link>http://micro.moda/orgs/mercyhurst.edu_213987/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/mercyhurst.edu_213987/</guid>
+      <description>&lt;p&gt;Mercyhurst is the regionâs comprehensive Catholic university, founded by the Sisters of Mercy in the liberal arts tradition. We offer premier bachelors, associates, graduate, and certificate programs on two picturesque campuses in the Erie, PA region.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

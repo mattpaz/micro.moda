@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peace.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/peace/index.edu/</link>
+    <description>Recent content in Peace.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/peace.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.peace.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.peace.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.peace.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>William Peace University</title>
+      <link>http://micro.moda/orgs/peace.edu_199272/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/peace.edu_199272/</guid>
+      <description>&lt;p&gt;William Peace University is a SACS-accredited, small, private co-ed university in Raleigh, NC.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

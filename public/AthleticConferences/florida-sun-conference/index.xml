@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florida Sun Conference on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/florida-sun-conference/</link>
+    <description>Recent content in Florida Sun Conference on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/florida-sun-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Southeastern University</title>
+      <link>http://micro.moda/orgs/seu.edu_137564/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/seu.edu_137564/</guid>
+      <description>&lt;p&gt;Southeastern in Lakeland, Florida, is a dynamic, Christ-centered university that fosters student success by integrating personal faith and higher learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Warner University</title>
+      <link>http://micro.moda/orgs/warner.edu_138275/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/warner.edu_138275/</guid>
+      <description>&lt;p&gt;The mission of Warner University is to graduate individuals who exemplify academic excellence and Christian character.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

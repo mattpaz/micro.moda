@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goucher.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/goucher/index.edu/</link>
+    <description>Recent content in Goucher.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/goucher.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.goucher.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.GOUCHER.EDU/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/WWW.GOUCHER.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Goucher College</title>
+      <link>http://micro.moda/orgs/goucher.edu_162654/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/goucher.edu_162654/</guid>
+      <description>&lt;p&gt;Goucher College, located in Baltimore, Maryland, is a private, coeducational liberal arts and sciences college awarding the bachelor of arts and master&amp;rsquo;s degrees. Goucher enrolls more than 1,350 undergraduate and 1,000 graduate students. It was founded in 1885 and is accredited by the Middle States Association of Colleges and Schools.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

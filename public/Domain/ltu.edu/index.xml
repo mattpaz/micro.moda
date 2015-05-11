@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ltu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ltu/index.edu/</link>
+    <description>Recent content in Ltu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ltu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.ltu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ltu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.ltu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lawrence Technological University</title>
+      <link>http://micro.moda/orgs/ltu.edu_170675/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ltu.edu_170675/</guid>
+      <description>&lt;p&gt;Lawrence Technological University, near Detroit, MI, A private university with programs in the Arts &amp;amp; Sciences, Architecture &amp;amp; Design, Business Management, Engineering and Technology fields.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

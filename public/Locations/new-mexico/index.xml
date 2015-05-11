@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Mexico on MicroModa</title>
+    <link>http://micro.moda/locations/new-mexico/</link>
+    <description>Recent content in New Mexico on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/locations/new-mexico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Eastern New Mexico University-Main Campus</title>
+      <link>http://micro.moda/orgs/enmu.edu_187648/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/enmu.edu_187648/</guid>
+      <description>&lt;p&gt;New Mexico&amp;rsquo;s largest regional comprehensive university offers more than 60 associate, bachelor&amp;rsquo;s and master&amp;rsquo;s programs. Small classes for personal attention. Affordable tuition, scholarships, financial aid and distance education. Located in Portales, N.M. Phone: 575.562.1011&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Mexico Highlands University</title>
+      <link>http://micro.moda/orgs/nmhu.edu_187897/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nmhu.edu_187897/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Mexico Institute of Mining and Technology</title>
+      <link>http://micro.moda/orgs/nmt.edu_187967/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nmt.edu_187967/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Mexico State University-Main Campus</title>
+      <link>http://micro.moda/orgs/nmsu.edu_188030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nmsu.edu_188030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Northern New Mexico College</title>
+      <link>http://micro.moda/orgs/nnmc.edu_188058/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nnmc.edu_188058/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of New Mexico-Main Campus</title>
+      <link>http://micro.moda/orgs/unm.edu_187985/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/unm.edu_187985/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Western New Mexico University</title>
+      <link>http://micro.moda/orgs/wnmu.edu_188304/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/wnmu.edu_188304/</guid>
+      <description>&lt;p&gt;Located in historic Silver City, Western New Mexico University has branch campuses in four other communities. More than 70 fields of study are offered and students can earn anywhere from a certificate to a master&amp;#039;s degree.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

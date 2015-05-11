@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okcu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/okcu/index.edu/</link>
+    <description>Recent content in Okcu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/okcu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.okcu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.okcu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.okcu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oklahoma City University</title>
+      <link>http://micro.moda/orgs/okcu.edu_207458/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/okcu.edu_207458/</guid>
+      <description>&lt;p&gt;Oklahoma City University is a coeducational, urban private university located in Oklahoma City, in the Midtown district. The university is affiliated with the United Methodist Church and offers a wide variety of degrees in the liberal arts and sciences disciplines.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

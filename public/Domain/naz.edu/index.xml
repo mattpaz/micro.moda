@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naz.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/naz/index.edu/</link>
+    <description>Recent content in Naz.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/naz.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.naz.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.naz.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.naz.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nazareth College</title>
+      <link>http://micro.moda/orgs/naz.edu_193584/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/naz.edu_193584/</guid>
+      <description>&lt;p&gt;Founded in 1924, Nazareth College is located on a suburban campus in the metropolitan region of Rochester, N.Y. The College offers challenging academic programs in the liberal arts and sciences and professional programs in health and human services, education and management. Nazareth enrolls approximately 2,000 undergraduate students and 1,000 graduate students.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

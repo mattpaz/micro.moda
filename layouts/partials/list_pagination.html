@@ -1,0 +1,16 @@
+
+<na class="pagination" role="navigation">
+  <ul class="pager">
+		{{if .HasPrev}}
+    <li class="previous"><a href="{{ .Prev.Url }}"><span aria-hidden="true">&larr;</span> Older</a></li>
+		{{ else }}
+		<li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
+		{{end}}
+		<span class="page-number text-muted">Page {{ .PageNumber }} of {{.TotalPages}}</span>
+		{{if .HasNext}}
+    <li class="next"><a href="{{ .Next.Url }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
+		{{ else }}
+		<li class="next disabled"><a href="#"><span aria-hidden="true">&rarr;</span> Newer</a></li>
+		{{end}}
+  </ul>
+</nav>

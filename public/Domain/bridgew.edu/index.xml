@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bridgew.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/bridgew/index.edu/</link>
+    <description>Recent content in Bridgew.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/bridgew.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.bridgew.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.bridgew.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.bridgew.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridgewater State University</title>
+      <link>http://micro.moda/orgs/bridgew.edu_165024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/bridgew.edu_165024/</guid>
+      <description>&lt;p&gt;Bridgewater State University offers a comprehensive range of undergraduate, graduate, and evening degree programs. Centrally located in Southeastern Massachusetts and widely respected, Bridgewater is committed to making a challenging, high quality education accessible and achievable for students in the region and beyond.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

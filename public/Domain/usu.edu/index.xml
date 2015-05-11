@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/usu/index.edu/</link>
+    <description>Recent content in Usu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/usu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.usu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.usu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.usu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Utah State University</title>
+      <link>http://micro.moda/orgs/usu.edu_230728/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/usu.edu_230728/</guid>
+      <description>&lt;p&gt;Founded in 1888, Utah State University is Utah&amp;rsquo;s only land grant institution, offering 168 undergraduate degrees, 143 graduate degrees and serving over 28,000 students in Logan and around the state at Distance Education campuses and learning centers, as well as at USU Eastern. Known for its robust and cutting edge research, Utah State challenges students to pursue academic opportunities that will change the world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

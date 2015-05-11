@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenyon.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/kenyon/index.edu/</link>
+    <description>Recent content in Kenyon.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/kenyon.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.kenyon.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.kenyon.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.kenyon.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kenyon College</title>
+      <link>http://micro.moda/orgs/kenyon.edu_203535/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/kenyon.edu_203535/</guid>
+      <description>&lt;p&gt;Founded in 1824 in Gambier, Ohio, Kenyon College is a highly selective liberal arts college offering 1,600 students an academically challenging curriculum in a close-knit community.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hawaii on MicroModa</title>
+    <link>http://micro.moda/locations/hawaii/</link>
+    <description>Recent content in Hawaii on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/locations/hawaii/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Brigham Young University-Hawaii</title>
+      <link>http://micro.moda/orgs/byuh.edu_230047/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/byuh.edu_230047/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaminade University of Honolulu</title>
+      <link>http://micro.moda/orgs/chaminade.edu_141486/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/chaminade.edu_141486/</guid>
+      <description>&lt;p&gt;Chaminade University, a private Catholic Marianist college in Honolulu, Hawai&amp;rsquo;i, offers a rich educational environment with a dedicated, involved faculty, dynamic programs for undergraduates in the life sciences, small class sizes, and a safe, beautiful campus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hawaii Pacific University</title>
+      <link>http://micro.moda/orgs/hpu.edu_141644/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/hpu.edu_141644/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Hawaii at Hilo</title>
+      <link>http://micro.moda/orgs/hawaii.edu_141565/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/hawaii.edu_141565/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Hawaii at Manoa</title>
+      <link>http://micro.moda/orgs/hawaii.edu_141574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/hawaii.edu_141574/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Hawaii-West Oahu</title>
+      <link>http://micro.moda/orgs/hawaii.edu_141981/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/hawaii.edu_141981/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

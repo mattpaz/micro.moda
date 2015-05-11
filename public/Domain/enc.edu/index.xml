@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enc.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/enc/index.edu/</link>
+    <description>Recent content in Enc.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/enc.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.enc.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.enc.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.enc.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eastern Nazarene College</title>
+      <link>http://micro.moda/orgs/enc.edu_165644/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/enc.edu_165644/</guid>
+      <description>&lt;p&gt;Located in Quincy, Massachusetts on Boston&amp;#39;s historic South Shore, Eastern Nazarene College (ENC) is a distinctively Christian liberal arts college. With approximately 1,100 students distributed across its traditional residential undergraduate, adult studies, and graduate programs, ENC offers a breadth of academic programs that prepare students to lead and serve in a diverse world by integrating the best in education and the best in Christian faith. With faculty members active in publishing and research, ENC is known for its success in getting students into top law, medical and graduate schools. ENC is committed to the teaching and mentoring of students in a nurturing, spiritually enriched, and academically supportive environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

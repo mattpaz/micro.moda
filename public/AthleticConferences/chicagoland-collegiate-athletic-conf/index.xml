@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chicagoland Collegiate Athletic Conf on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/chicagoland-collegiate-athletic-conf/</link>
+    <description>Recent content in Chicagoland Collegiate Athletic Conf on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/chicagoland-collegiate-athletic-conf/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>University of St Francis</title>
+      <link>http://micro.moda/orgs/stfrancis.edu_148584/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/stfrancis.edu_148584/</guid>
+      <description>&lt;p&gt;A small midwestern catholic university located south of Chicago in Joliet, Illinois.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

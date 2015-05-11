@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kent.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/kent/index.edu/</link>
+    <description>Recent content in Kent.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/kent.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.kent.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.kent.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.kent.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snapshot of http://www.salem.kent.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.salem.kent.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.salem.kent.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kent State University at Kent</title>
+      <link>http://micro.moda/orgs/kent.edu_203517/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/kent.edu_203517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kent State University at Salem</title>
+      <link>http://micro.moda/orgs/kent.edu_203492/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/kent.edu_203492/</guid>
+      <description>&lt;p&gt;Searching for the best Columbiana County Colleges? Explore Kent State&amp;#039;s Columbiana classes to earn your degree and move toward your career.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

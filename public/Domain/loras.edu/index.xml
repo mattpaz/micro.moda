@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loras.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/loras/index.edu/</link>
+    <description>Recent content in Loras.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/loras.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.loras.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.loras.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.loras.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loras College</title>
+      <link>http://micro.moda/orgs/loras.edu_153825/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/loras.edu_153825/</guid>
+      <description>&lt;p&gt;Loras CollegeThe official homepage of Loras College - Catholic, Liberal Arts relating the rich liberal arts tradition to a changing world, Loras strives to develop active learners, reflective thinkers, ethical decision makers and responsible contributors in their diverse professional, social, and religious roles. This site serves as a resource for prospective students, families, high school staff, alumni, supporters, followers and visitors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

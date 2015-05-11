@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morrisville.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/morrisville/index.edu/</link>
+    <description>Recent content in Morrisville.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/morrisville.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.morrisville.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.morrisville.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.morrisville.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morrisville State College</title>
+      <link>http://micro.moda/orgs/morrisville.edu_196051/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/morrisville.edu_196051/</guid>
+      <description>&lt;p&gt;:: Learn in more than 70 specialized associate and bachelor degree programs with small class sizes and personal attention at Morrisville State College. Use pioneering technology with laptop and wireless initiatives and cutting-edge technology in academic labs. Access real world learning laboratories on campus. Have a great on-campus experience with student activities, clubs and organizations, residence hall activities and more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

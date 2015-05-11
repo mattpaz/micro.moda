@@ -1,0 +1,134 @@
+{{ if isset .content.analysis.html.google.page_speed "pageStats" }}
+    <div id="pagespeed">
+      <h3>Google Page Speed</h3>
+      <p>
+        <a href="https://developers.google.com/speed/pagespeed/insights/?url={{ .url.original }}">Google Page Speed</a> provided a score of
+        <span class="label
+        {{ if lt .content.analysis.html.google.page_speed.score  65 }}
+          label-danger
+        {{ else if lt .content.analysis.html.google.page_speed.score 85 }}
+          label-warning
+        {{ else }}
+          label-success
+        {{ end }}
+        ">
+        {{.content.analysis.html.google.page_speed.score }}</span>
+        after loading {{.content.analysis.html.google.page_speed.pageStats.numberResources}} resources
+        across {{.content.analysis.html.google.page_speed.pageStats.numberHosts}} hosts.
+      </p>
+
+      <!-- http://www.jqueryscript.net/other/Simple-jQuery-Plugin-For-Live-File-Size-Converter-File-Size.html -->
+
+      <table id="gps_table" class="table table-striped table-bordered ddataTableSimple dt-responsive" style="width: 100%;">
+        <thead>
+          <tr>
+            <th>HTML</th>
+            <th>
+              CSS <span class="badge">{{.content.analysis.html.google.page_speed.pageStats.numberCssResources}}<span>
+            </th>
+            <th>
+              IMAGE <span class="badge">{{.content.analysis.html.google.page_speed.pageStats.numberStaticResources}}<span>
+            </th>
+            <th>
+              JS <span class="badge">{{.content.analysis.html.google.page_speed.pageStats.numberJsResources}}</span>
+            </th>
+            <th>TOTAL</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>{{.content.analysis.html.google.page_speed.pageStats.htmlResponseBytes}}</th>
+            <th>{{.content.analysis.html.google.page_speed.pageStats.cssResponseBytes}}</th>
+            <th>{{.content.analysis.html.google.page_speed.pageStats.imageResponseBytes}}</th>
+            <th>{{.content.analysis.html.google.page_speed.pageStats.javascriptResponseBytes}}</th>
+            <th>
+              --
+            </th>
+          </tr>
+        </tbodY>
+      </table>
+    </div>
+  {{ end }}
+
+  {{ if isset .content.analysis.html.validation.w3c "status" }}
+
+    <div id="validation">
+    <h3>Validation</h3>
+    <p>
+    At the time of the snapshot, the <a href="{{ .see_also.w3valid }}">W3C Validation</a> service reported this content was <strong>{{lower .content.analysis.html.validation.w3c.status }}</strong>.
+    <!--
+    {{ if eq .content.analysis.html.validation.w3c.status "Invalid" }}
+    <span class="label label-danger">{{.content.analysis.html.validation.w3c.status }}</span>
+    {{ end }}
+
+    {{ if eq .content.analysis.html.validation.w3c.status "Valid" }}
+    <span class="label label-success">{{.content.analysis.html.validation.w3c.status }}</span>
+    {{ end }}
+    -->
+    </p>
+
+    <table id="vtable" class="table table-striped table-bordered dataTableSimple dt-responsive" style="width: 100%;">
+      <thead>
+        <tr>
+          <th>Source</th>
+          <th>Errors</th>
+          <th>Warnings</th>
+          <th>Accessibility</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td><strong><a href="{{ .see_also.w3valid }}">W3C</a></strong></td>
+            <td><span class="label label-danger">{{ .content.analysis.html.validation.w3c.errors }}</span></td>
+            <td><span class="label label-warning">{{ .content.analysis.html.validation.w3c.warnings }}</span></td>
+            <td><span class="label label-default">N/A</span></td>
+        </tr>
+        <tr>
+            <td><strong><a href="https://github.com/htacg/tidy-html5">Tidy<a></strong></td>
+            <td><span class="label label-default">TBD</span></td>
+            <td><span class="label label-default">TBD</span></td>
+            <td><span class="label label-default">TBD</span></td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+
+  {{ end }}
+
+
+  {{ if isset .content.analysis.html.dom.counts "tags" }}
+  <h3>Dom Analysis</h3>
+  <p>There were <strong>{{ .content.analysis.html.dom.counts.total }}</strong> total dom elements in this page at the time of analysis.</p>
+  <table id="dom_stats_table" class="table table-striped table-bordered dataTable dt-responsive" style="width: 100%;">
+    <thead>
+      <tr>
+        <th style="width:85%">Tag</th>
+        <th>Count</th>
+      </tr>
+    </thead>
+    <tbody>
+
+        {{ range $index, $element := .content.analysis.html.dom.counts.tags }}
+        <tr>
+          <td>{{ $index }}</td>
+          <td>{{ $element }}</td>
+        </tr>
+        {{ end }}
+
+    </tbody>
+  </table>
+
+  {{ end }}
+
+
+  <!-- h3>Link Analysis</h3>
+  <ul>
+    <li>Coming Soon</li>
+  </ul -->
+
+  <h3>Metatags</h3>
+  <ul>
+    {{ range $index, $element := .content.meta_tags }}
+      <li>{{ $index }} = {{ $element }}</li>
+    {{ end }}
+  </ul>

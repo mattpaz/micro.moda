@@ -1,0 +1,86 @@
+baseurl = "http://micro.moda"
+languageCode = "en-us"
+title = "MicroModa"
+
+# Copyright notice. This is displayer in the footer.
+copyright = "© 2015 Copyright MicroModa, LLC"
+
+paginate = 10
+
+#Disqus Comment Config
+DisqusShortname = "micromoda"
+
+# {{ .Site | printf "%+v" }}
+
+[taxonomies]
+  tag = "Tags"
+  category = "Categories"
+  series = "Series"
+
+  server = "Server"
+  technologies = "Technologies"
+  domain = "Domain"
+  validation = "Validation"
+
+  location = "Locations"
+  control = "Control"
+  carn_class = "CarnegieClassification"
+  conference = "AthleticConferences"
+
+  [params]
+    # description = "small snapshots // big style" # for casper theme
+    # Social accounts. Link to these accounts are displayed in the header and footer.
+    github = "mattpaz" # for vienna theme
+    githubName = "mattpaz" # for casper theme
+
+    twitter = "autodidactic1" # for vienna theme
+    twitterName = "autodidactic1" # for casper theme
+
+    linkedin = "mattpasiewicz" # for vienna theme
+    linkedinName = "mattpasiewicz" # for casper theme
+
+    # facebook = "Your Facebook username"
+    # stackoverflow = "Your Stackoverflow profile"
+
+    # Google Analytics API key.
+    ga_api_key = "UA-61414028-1" # for vienna theme
+    googleAnalyticsUserID = "UA-61414028-1" # for casper theme
+
+    # Mixpanel API key.
+    # mixpanel_api_key = "Your Mixpanel API key"
+
+    author = "Matt Pasiewicz"
+    authorlocation = "Boulder, CO" # for casper theme
+    authorwebsite = "http://www.micro.moda" # for casper theme
+
+    avatar = "/base/logopart_dk.png" # for vienna theme
+    logo = "base/logopart_dk.png" # for casper theme
+    cover = "base/4045640508_17cbe4022a_b.jpg" #cover image for casper home
+
+    contact = "mailto:matt@micro.moda"
+    bio = "discovering data, sifting clicks and more!"
+
+    # Short subtitle/tagline. This is displayed in the header.
+    subtitle = "small insights // big trends"
+
+    [[menu.main]]
+      name = "Home"
+      weight = -120
+      identifier = ""
+      url = "/"
+
+    [[menu.main]]
+      name = "My Blog"
+      weight = -120
+      identifier = "blog"
+      url = "/post"
+
+    [[dmenu.main]]
+      name = "About me"
+      weight = -110
+      identifier = "about"
+      url = "/about"
+
+[blackfriday]
+    fractions = false
+    plainIdAnchors = true

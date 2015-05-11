@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Division I Independents on MicroModa</title>
+    <link>http://micro.moda/athleticconferences/division-i-independents/</link>
+    <description>Recent content in Division I Independents on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/athleticconferences/division-i-independents/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Mexico State University-Main Campus</title>
+      <link>http://micro.moda/orgs/nmsu.edu_188030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nmsu.edu_188030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United States Naval Academy</title>
+      <link>http://micro.moda/orgs/usna.edu_164155/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/usna.edu_164155/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

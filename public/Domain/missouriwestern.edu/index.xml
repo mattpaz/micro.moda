@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Missouriwestern.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/missouriwestern/index.edu/</link>
+    <description>Recent content in Missouriwestern.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/missouriwestern.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://missouriwestern.edu</title>
+      <link>http://micro.moda/snapshots/edu/missouriwestern.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/missouriwestern.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Missouri Western State University</title>
+      <link>http://micro.moda/orgs/missouriwestern.edu_178387/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/missouriwestern.edu_178387/</guid>
+      <description>&lt;p&gt;The official website of Missouri Western State University located in St. Joseph, Missouri.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

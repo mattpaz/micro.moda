@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ualr.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ualr/index.edu/</link>
+    <description>Recent content in Ualr.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ualr.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://ualr.edu</title>
+      <link>http://micro.moda/snapshots/edu/ualr.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/ualr.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Arkansas at Little Rock</title>
+      <link>http://micro.moda/orgs/ualr.edu_106245/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ualr.edu_106245/</guid>
+      <description>&lt;p&gt;UALR is a Central Arkansas university in Little Rock that offers students traditional and online classes with diplomas in over 100 degree programs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

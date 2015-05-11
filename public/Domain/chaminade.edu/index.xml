@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaminade.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/chaminade/index.edu/</link>
+    <description>Recent content in Chaminade.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/chaminade.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.chaminade.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.chaminade.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.chaminade.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chaminade University of Honolulu</title>
+      <link>http://micro.moda/orgs/chaminade.edu_141486/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/chaminade.edu_141486/</guid>
+      <description>&lt;p&gt;Chaminade University, a private Catholic Marianist college in Honolulu, Hawai&amp;rsquo;i, offers a rich educational environment with a dedicated, involved faculty, dynamic programs for undergraduates in the life sciences, small class sizes, and a safe, beautiful campus.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

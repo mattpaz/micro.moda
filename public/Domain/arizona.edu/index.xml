@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arizona.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/arizona/index.edu/</link>
+    <description>Recent content in Arizona.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/arizona.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.arizona.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.arizona.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.arizona.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Arizona</title>
+      <link>http://micro.moda/orgs/arizona.edu_104179/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/arizona.edu_104179/</guid>
+      <description>&lt;p&gt;The University of Arizona is the stateâs land-grant university and a member of the prestigious, invitation-only Association of American Universitiesâmade up of just 62 universities in the country. Rising from the sands of the Sonoran desert in 1885, the institution is transforming science fiction into scientific fact, collaborating across disciplines and engaging in novel partnerships to make the unknown known. As one of the worldâs premier public research universities, the University conducts more than $625 million of research annually. Home to two allopathic medical schools in Tucson and Phoenix, the UA Tech Park, The University of Arizona Health Network, and a member of the Arizona Space Grant Consortium, the University creates an $8.3 billion economic impact for Arizona. U.S. News and World Report placed 14 University of Arizona graduate programs among the top 20 in the nation and it is one of the nationâs top producers of Fulbright Scholars.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

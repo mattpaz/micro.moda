@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utexas.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/utexas/index.edu/</link>
+    <description>Recent content in Utexas.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/utexas.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.utexas.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.utexas.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.utexas.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The University of Texas at Austin</title>
+      <link>http://micro.moda/orgs/utexas.edu_228778/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/utexas.edu_228778/</guid>
+      <description>&lt;p&gt;Like the state it calls home, The University of Texas at Austin is a bold, ambitious leader, home to more than 51,000 students and 3,000 teaching faculty.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

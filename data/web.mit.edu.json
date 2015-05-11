@@ -1,0 +1,411 @@
+{
+  "url": {
+    "scheme": "http",
+    "host": "web.mit.edu",
+    "original": "http://web.mit.edu",
+    "base": "http://web.mit.edu",
+    "canonical": "http://web.mit.edu"
+  },
+  "snapshot_info": {
+    "ts": 1429426958,
+    "version": 1,
+    "date": "2015-04-19"
+  },
+  "domain": {
+    "name": "mit.edu",
+    "tld": "edu",
+    "ipv4": "23.4.149.163",
+    "ipv6": "2001:428:2004:193::255e",
+    "whois": {
+      "regrinfo": {
+        "owner": {
+          "name": "Massachusetts Institute of Technology",
+          "address": {
+            "0": "77 Massachusetts Ave",
+            "1": "Cambridge, MA 02139",
+            "2": "UNITED STATES"
+          }
+        },
+        "admin": {
+          "phone": "(617) 324-5900",
+          "email": "mark@mit.edu",
+          "name": "Mark Silis",
+          "address": {
+            "0": "Massachusetts Institute of Technology",
+            "1": "MIT Room W92-167, 77 Massachusetts Avenue",
+            "2": "Cambridge, MA 02139-4307",
+            "3": "UNITED STATES"
+          }
+        },
+        "tech": {
+          "phone": "(617) 253-8400",
+          "email": "noc@mit.edu",
+          "name": "MIT Network Operations",
+          "address": {
+            "0": "Massachusetts Institute of Technology",
+            "1": "MIT Room W92-167, 77 Massachusetts Avenue",
+            "2": "Cambridge, MA 02139-4307",
+            "3": "UNITED STATES"
+          }
+        },
+        "domain": {
+          "nserver": {
+            "use2.akam.net": "96.7.49.64",
+            "use5.akam.net": "2.16.40.64",
+            "usw2.akam.net": "184.26.161.64",
+            "asia1.akam.net": "95.100.175.64",
+            "asia2.akam.net": "95.101.36.64",
+            "eur5.akam.net": "23.74.25.64",
+            "ns1-173.akam.net": "193.108.91.173",
+            "ns1-37.akam.net": "193.108.91.37"
+          },
+          "created": "1985-05-23",
+          "changed": "2013-05-17",
+          "name": "mit.edu"
+        },
+        "registered": "yes"
+      }
+    }
+  },
+  "server": {
+    "server": {
+      "raw": "Apache/1.3.41 (Unix) mod_ssl/2.8.31 OpenSSL/0.9.8j"
+    }
+  },
+  "response": {
+    "time": 0.09,
+    "status": "200",
+    "protocol": "HTTP/1.0",
+    "message": "OK",
+    "headers": {
+      "server": "Apache/1.3.41 (Unix) mod_ssl/2.8.31 OpenSSL/0.9.8j",
+      "last-modified": "Fri, 17 Apr 2015 04:00:07 GMT",
+      "etag": "\"10e86014-3e16-55308547\"",
+      "x-cnection": "close",
+      "content-type": "text/html",
+      "date": "Sun, 19 Apr 2015 07:02:36 GMT",
+      "content-length": "15894",
+      "connection": "close"
+    }
+  },
+  "content": {
+    "title": "MIT - Massachusetts Institute of Technology",
+    "description": "The mission of MIT is to advance knowledge and educate students in science, technology and other areas of scholarship that will best serve the nation and the world in the 21st century.",
+    "meta_tags": {
+      "keywords": "Massachusetts Institute of Technology, MIT",
+      "description": "The mission of MIT is to advance knowledge and educate students in science, technology and other areas of scholarship that will best serve the nation and the world in the 21st century.",
+      "robots": "index,follow,noodp,noydir",
+      "allow-search": "yes",
+      "language": "en",
+      "distribution": "global",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "p:domain_verify": "851bce811db50b9c0421a249549226cc",
+      "apple-itunes-app": "app-id=353590319"
+    },
+    "analysis": {
+      "text": {
+        "counts": {
+          "word": 150,
+          "sentence": 4,
+          "avg_sentance_words": 39
+        },
+        "tags": {
+          "word_weights": {
+            "mit": {
+              "count": 4,
+              "weight": 7
+            },
+            "offices": {
+              "count": 3,
+              "weight": 5
+            },
+            "apr": {
+              "count": 3,
+              "weight": 5
+            },
+            "spotlight": {
+              "count": 2,
+              "weight": 3
+            },
+            "research": {
+              "count": 2,
+              "weight": 3
+            },
+            "today's": {
+              "count": 2,
+              "weight": 3
+            },
+            "massachusetts": {
+              "count": 2,
+              "weight": 3
+            },
+            "education": {
+              "count": 2,
+              "weight": 3
+            },
+            "cambridge": {
+              "count": 2,
+              "weight": 3
+            },
+            "energy": {
+              "count": 2,
+              "weight": 3
+            },
+            "students": {
+              "count": 2,
+              "weight": 3
+            },
+            "press": {
+              "count": 1,
+              "weight": 1
+            },
+            "campus": {
+              "count": 1,
+              "weight": 1
+            },
+            "options": {
+              "count": 1,
+              "weight": 1
+            },
+            "carbon-free": {
+              "count": 1,
+              "weight": 1
+            },
+            "events": {
+              "count": 1,
+              "weight": 1
+            },
+            "mathternoon": {
+              "count": 1,
+              "weight": 1
+            },
+            "tty": {
+              "count": 1,
+              "weight": 1
+            },
+            "museum": {
+              "count": 1,
+              "weight": 1
+            },
+            "617-258-9344": {
+              "count": 1,
+              "weight": 1
+            },
+            "study": {
+              "count": 1,
+              "weight": 1
+            },
+            "calls": {
+              "count": 1,
+              "weight": 1
+            },
+            "follow": {
+              "count": 1,
+              "weight": 1
+            },
+            "head": {
+              "count": 1,
+              "weight": 1
+            },
+            "appointed": {
+              "count": 1,
+              "weight": 1
+            }
+          },
+          "meta_kw": {
+            "0": "Massachusetts Institute of Technology",
+            "1": " MIT"
+          }
+        },
+        "readability": {
+          "flesch_kincaid_reading_ease": 6.2,
+          "gunning_fog_score": 23.5,
+          "coleman_liau_index": 18,
+          "smog_index": 19,
+          "automated_readability_index": 25.1
+        }
+      },
+      "html": {
+        "dom": {
+          "counts": {
+            "tags": {
+              "a": 69,
+              "li": 26,
+              "meta": 23,
+              "span": 23,
+              "div": 19,
+              "comment": 19,
+              "img": 11,
+              "h3": 10,
+              "script": 8,
+              "link": 7,
+              "input": 5,
+              "br": 4,
+              "label": 3,
+              "ul": 2,
+              "i": 2,
+              "p": 2,
+              "strong": 1,
+              "head": 1,
+              "h2": 1,
+              "title": 1,
+              "form": 1,
+              "h1": 1,
+              "body": 1,
+              "html": 1
+            },
+            "total": 222
+          },
+          "body": {
+            "count": 4,
+            "children": {
+              "0": "div",
+              "1": "comment",
+              "2": "script",
+              "3": "script"
+            },
+            "hash": "e1ca95710c9182066c3167f94bdf55d2",
+            "note": "I should be able to use this to get a feel for major redesigns?"
+          }
+        },
+        "page_size": 15894,
+        "amazon": {
+          "alexa": {
+            "dmoz": {
+              "0": "Reference",
+              "1": "Education",
+              "2": "Colleges and Universities",
+              "3": "North America",
+              "4": "United States",
+              "5": "Massachusetts",
+              "6": "Massachusetts Institute of Technology"
+            },
+            "stats": {
+              "speed": "1045",
+              "links_in": "113867",
+              "reach": "840",
+              "popularity": "795",
+              "delta": "-73"
+            },
+            "related_links": {
+              "edu": {
+                "http://utexas.edu/": {
+                  "HREF": "http://utexas.edu/",
+                  "TITLE": "The University of Texas at Austin",
+                  "PARSED_LINK": {
+                    "scheme": "http",
+                    "host": "utexas.edu",
+                    "path": "/"
+                  }
+                },
+                "http://stanford.edu/": {
+                  "HREF": "http://stanford.edu/",
+                  "TITLE": "Stanford University",
+                  "PARSED_LINK": {
+                    "scheme": "http",
+                    "host": "stanford.edu",
+                    "path": "/"
+                  }
+                },
+                "http://harvard.edu/": {
+                  "HREF": "http://harvard.edu/",
+                  "TITLE": "Harvard University",
+                  "PARSED_LINK": {
+                    "scheme": "http",
+                    "host": "harvard.edu",
+                    "path": "/"
+                  }
+                },
+                "http://rpi.edu/": {
+                  "HREF": "http://rpi.edu/",
+                  "TITLE": "Rensselaer Polytechnic Institute",
+                  "PARSED_LINK": {
+                    "scheme": "http",
+                    "host": "rpi.edu",
+                    "path": "/"
+                  }
+                }
+              },
+              "org": {
+                "http://mitadmissions.org/": {
+                  "HREF": "http://mitadmissions.org/",
+                  "TITLE": "MIT Admissions",
+                  "PARSED_LINK": {
+                    "scheme": "http",
+                    "host": "mitadmissions.org",
+                    "path": "/"
+                  }
+                }
+              }
+            },
+            "keywords": {
+              "0": "Massachusetts Institute of Technology"
+            }
+          }
+        },
+        "validation": {
+          "w3c": {
+            "status": "Invalid",
+            "errors": "11",
+            "warnings": "7",
+            "process_duration": 1429426969.86
+          }
+        },
+        "google": {
+          "page_speed": {
+            "kind": "pagespeedonline#result",
+            "id": "http://web.mit.edu/",
+            "responseCode": 200,
+            "title": "MIT - Massachusetts Institute of Technology",
+            "score": 78,
+            "pageStats": {
+              "numberResources": 24,
+              "numberHosts": 4,
+              "totalRequestBytes": "2247",
+              "numberStaticResources": 21,
+              "htmlResponseBytes": "16206",
+              "cssResponseBytes": "6838",
+              "imageResponseBytes": "482951",
+              "javascriptResponseBytes": "173201",
+              "numberJsResources": 6,
+              "numberCssResources": 1
+            }
+          },
+          "page_rank": {
+            "error": {
+              "note": "Error Loading Google Data",
+              "code": "403",
+              "message": "Forbidden"
+            }
+          }
+        }
+      }
+    },
+    "icon": {
+      "tiny": "http://web.mit.edu/favicon.ico",
+      "default": "http://web.mit.edu/img/MIT_logo.gif",
+      "medium": "http://web.mit.edu/img/MIT_logo.gif"
+    },
+    "h1": "",
+    "rss": {
+      "0": {
+        "href": "http://feeds.feedburner.com/mit/news-homepage",
+        "title": "MIT - Home Page News"
+      }
+    },
+    "screenshots": {
+      "bluga": {
+        "image_height": " 679"
+      }
+    }
+  },
+  "see_also": {
+    "builtwith": "http://builtwith.com/web.mit.edu",
+    "netcraft": "http://uptime.netcraft.com/up/graph?site=web.mit.edu",
+    "alexa": "http://www.alexa.com/data/details/main/web.mit.edu",
+    "compete": "http://siteanalytics.compete.com/web.mit.edu",
+    "quantcast": "https://www.quantcast.com/web.mit.edu",
+    "w3valid": "http://validator.w3.org/check?uri=http%3A%2F%2Fweb.mit.edu"
+  },
+  "process_duration": 13.3
+}

@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseUrl}}
+<section class="taxonomy-terms"><div class="main">
+  <div class="row">
+    <div class="col-sm-6 col-sm-offset-3" role="main">
+
+      <h1>{{ .Title }}</h1>
+      <ul>
+        {{ $data := .Data }}
+        {{ range $key, $value := .Data.Terms }}
+        <li><a href="{{ $baseurl }}{{ $data.Plural }}/{{ $key | urlize }}">{{ $key }}</a> {{ len $value }}</li>
+        {{ end }}
+      </ul>
+
+    </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}

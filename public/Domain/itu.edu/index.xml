@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/itu/index.edu/</link>
+    <description>Recent content in Itu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/itu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://itu.edu</title>
+      <link>http://micro.moda/snapshots/edu/itu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/itu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International Technological University</title>
+      <link>http://micro.moda/orgs/itu.edu_443128/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/itu.edu_443128/</guid>
+      <description>&lt;p&gt;ITU in San Jose, CA. A diverse university offering graduate degrees in Business Administration, Electrical Engineering, Computer Science, Digital Arts, Software&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

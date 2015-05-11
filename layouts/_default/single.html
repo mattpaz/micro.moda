@@ -1,0 +1,60 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseUrl }}
+
+<div class="main">
+  <div class="row">
+    <div class="col-sm-6 col-sm-offset-3" role="main">
+
+<article>
+  <header>
+    <h1 class="">{{ .Title }}</h1>
+    <div class="post-meta clearfix">
+      {{ if isset . "Date" }}
+      <div class="post-date pull-left">
+        Posted on
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHtml }}">
+          {{ .Date.Format "Jan 2, 2006" }}
+        </time>
+      </div>
+      {{ end }}
+
+      <div class="pull-right">
+        {{ if isset .Params "image" }}
+        <img src="/{{ .Params.image }}" />
+        {{ end }}
+      </div>
+    </div>
+  </header>
+
+  <section>
+    {{ .Content }}
+  </section>
+
+  <footer>
+
+    {{ partial "single_pagination.html" . }}
+
+    {{ with .Site.DisqusShortname }}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = '{{ . }}';
+      (function() {
+        if (window.location.hostname == "localhost")
+          return;
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    {{ end }}
+
+
+  </footer>
+</article>
+
+</div>
+</div>
+</div>
+
+{{ partial "footer.html" . }}

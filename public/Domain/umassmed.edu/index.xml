@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Umassmed.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/umassmed/index.edu/</link>
+    <description>Recent content in Umassmed.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/umassmed.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.umassmed.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.umassmed.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.umassmed.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Massachusetts Medical School Worcester</title>
+      <link>http://micro.moda/orgs/umassmed.edu_166708/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/umassmed.edu_166708/</guid>
+      <description>&lt;p&gt;Welcome to the University of Massachusetts Medical School (UMMS), the commonwealthâs first and only public academic health sciences center.&lt;/p&gt;
+
+&lt;p&gt;Our mission is to advance the health and well-being of the people of the commonwealth and the world through pioneering education, research and health care delivery along with clinical partner UMass Memorial Health Care, the largest health care provider in Central Massachusetts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

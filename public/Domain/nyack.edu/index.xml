@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nyack.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/nyack/index.edu/</link>
+    <description>Recent content in Nyack.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/nyack.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.nyack.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.nyack.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.nyack.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nyack College</title>
+      <link>http://micro.moda/orgs/nyack.edu_194161/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/nyack.edu_194161/</guid>
+      <description>&lt;p&gt;Nyack College | New York&amp;rsquo;s Christian College is a fully accredited Christian college, seminary, and graduate schools. The most ethnically diverse Christian college in U.S. history is the best choice for Christian college education amongst New York and NYC colleges. Degrees at the Christian college, seminary, and graduate schools are located in NY, NYC, and online.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

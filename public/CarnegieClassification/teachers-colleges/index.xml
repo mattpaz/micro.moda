@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachers Colleges on MicroModa</title>
+    <link>http://micro.moda/carnegieclassification/teachers-colleges/</link>
+    <description>Recent content in Teachers Colleges on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <atom:link href="http://micro.moda/carnegieclassification/teachers-colleges/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cambridge College</title>
+      <link>http://micro.moda/orgs/cambridgecollege.edu_165167/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/cambridgecollege.edu_165167/</guid>
+      <description>&lt;p&gt;You can get your degree while working! Flexible schedules for adult learners. Programs in education, psychology, counseling, management, health care and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harris-Stowe State University</title>
+      <link>http://micro.moda/orgs/hssu.edu_177551/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/hssu.edu_177551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Union College</title>
+      <link>http://micro.moda/orgs/unionky.edu_157863/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/unionky.edu_157863/</guid>
+      <description>&lt;p&gt;Welcome to Union College: Where Higher Education is One to One! Union College is a private, liberal arts college affiliated with the United Methodist Church.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tufts.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/tufts/index.edu/</link>
+    <description>Recent content in Tufts.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/tufts.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.tufts.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.tufts.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.tufts.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tufts University</title>
+      <link>http://micro.moda/orgs/tufts.edu_168148/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/tufts.edu_168148/</guid>
+      <description>&lt;p&gt;Tufts is recognized as a premier university dedicated to educating new leaders for a changing world. Superb teaching and world-class research equip graduates to address multi-faceted challenges around the globe.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

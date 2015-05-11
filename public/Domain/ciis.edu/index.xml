@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciis.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ciis/index.edu/</link>
+    <description>Recent content in Ciis.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ciis.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.ciis.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ciis.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/www.ciis.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>California Institute of Integral Studies</title>
+      <link>http://micro.moda/orgs/ciis.edu_110316/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ciis.edu_110316/</guid>
+      <description>&lt;p&gt;CIIS offers 18 leading-edge graduate programs, an undergraduate program, public programs and performing arts, and five counseling centers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
